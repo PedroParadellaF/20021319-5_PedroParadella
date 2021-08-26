@@ -13,7 +13,7 @@
     </head>
     <body>
         <header>
-            <a href="#"><img src="images/logo.png" alt=""></a>
+            <a href="#"><img src="images/logo.png" alt="" class="logo"></a>
             <nav>
                 <ul>
                     <li><a href="#">Quem somos?</li>

@@ -14,6 +14,13 @@
     <body>
         <header>
             <a href="#"><img src="images/logo.png" alt=""></a>
+            <nav>
+                <ul>
+                    <li><a href="#">Quem somos?</li>
+                    <li><a href="#">Contato</li>
+                    <li><a href="#">Localização</li>
+                </ul>
+            </nav>
         </header>
 
 

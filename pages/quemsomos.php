@@ -13,7 +13,7 @@
         <link rel="stylesheet" type="text/css" href="../css/main.css">
     </head>
     <body>
-        <p><?php echo $t ?></p>
+    
         
     </body>
 </html>

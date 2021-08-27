@@ -27,7 +27,7 @@
             </nav>
         </header>
 
-        <iframe width="100%"  height="2000px" frameborder="0" src="pages/home.php" name="tela">
+        <iframe width="100%"  height="1000px" frameborder="0" src="pages/home.php" name="tela">
 
         </iframe>
 

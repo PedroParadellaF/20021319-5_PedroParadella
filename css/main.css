@@ -101,7 +101,7 @@ a:hover{
     width: 600px;
     height: 10px;
     position: absolute;
-    bottom: 1850px;
+    bottom: 850px;
     right: -350px;
     left: -250px;
     top: 0;
@@ -117,7 +117,7 @@ a:hover{
 
 .img1{
     position: absolute;
-    bottom: 1450px;
+    bottom: 350px;
     right: 350px;
     left: -250px;
     top: 0;
@@ -131,36 +131,8 @@ a:hover{
 
 .img2{
     position: absolute;
-    bottom: 750px;
-    right: -350px;
-    left: -250px;
-    top: 0;
-    margin: auto;
-    font-size: 50px;
-    padding-left: 25px;
-    padding-right: 10px;
-    padding-top: -10px;
-    padding-bottom: 35px;
-}
-
-.img3{
-    position: absolute;
-    bottom: 750px;
-    right: -350px;
-    left: -250px;
-    top: 0;
-    margin: auto;
-    font-size: 50px;
-    padding-left: 25px;
-    padding-right: 10px;
-    padding-top: -10px;
-    padding-bottom: 35px;
-}
-
-.img4{
-    position: absolute;
-    bottom: 750px;
-    right: -350px;
+    bottom: -250px;
+    right: 350px;
     left: -250px;
     top: 0;
     margin: auto;
@@ -179,12 +151,32 @@ a:hover{
     left: -250px;
     top: 0;
 }
+.p2{
+    display: flex;
+    align-items: center;
+    bottom: 750px;
+     right: -350px;
+     left: -250px;
+     top: 0;
+ }
 
 .p11{
     width: 380px;
     height: 10px;
     position: absolute;
-    bottom: 1500px;
+    bottom: 450px;
+    right: -650px;
+    left: -250px;
+    top: 0;
+    margin: auto;
+    font-size: 20px;
+    color: white;
+}
+.p22{
+    width: 380px;
+    height: 10px;
+    position: absolute;
+    bottom: -200px;
     right: -650px;
     left: -250px;
     top: 0;

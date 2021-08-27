@@ -13,8 +13,7 @@
         <link rel="stylesheet" type="text/css" href="../css/main.css">
     </head>
     <body>
-    <p><?php echo $soma ?></p>
-        
+        <p><?php echo $t ?></p>
         
     </body>
 </html>

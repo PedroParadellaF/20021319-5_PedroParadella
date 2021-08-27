@@ -19,7 +19,7 @@
         <header class="menu">
             <nav>
                 <ul>
-                    <li><a href="pages/quemsomos.php" target="tela">Home</li>
+                    <li><a href="pages/home.php" target="tela">Home</li>
                     <li><a href="pages/quemsomos.php" target ="tela">Quem somos?</li>
                     <li><a href="pages/contatolocal.php" target ="tela">Contato e Localização</li>
                     

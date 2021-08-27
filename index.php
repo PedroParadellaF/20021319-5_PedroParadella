@@ -1,7 +1,6 @@
 <?php
-
+    include("function/function.php")
 ?>
-
 
 
 <!DOCTYPE html>
@@ -20,14 +19,15 @@
         <header class="menu">
             <nav>
                 <ul>
-                    <li><a href="#">Quem somos?</li>
-                    <li><a href="#">Contato</li>
-                    <li><a href="#">Localização</li>
+                    <li><a href="pages/quemsomos.php" target="tela">Home</li>
+                    <li><a href="pages/quemsomos.php" target ="tela">Quem somos?</li>
+                    <li><a href="pages/contatolocal.php" target ="tela">Contato e Localização</li>
+                    
                 </ul>
             </nav>
         </header>
 
-        <iframe width="100%"  height="2000px" frameborder="0" src="quemsomos.html">
+        <iframe width="100%"  height="2000px" frameborder="0" name="tela">
 
         </iframe>
 

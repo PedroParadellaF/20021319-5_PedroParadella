@@ -1,3 +1,7 @@
+<?php
+    include ("../function/function.php");
+?>
+
 <!DOCTYPE html>
 <html>
     <head>
@@ -9,8 +13,7 @@
         <link rel="stylesheet" type="text/css" href="./css/main.css">
     </head>
     <body>
-      
+        <p><?php echo $soma ?></p>
         
-        <script src="" async defer></script>
     </body>
 </html>

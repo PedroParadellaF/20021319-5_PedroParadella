@@ -5,7 +5,6 @@
 }
 
 header{
-    
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -29,6 +28,7 @@ header img{
 }
 
 nav, ul{
+    text-decoration: none;
     list-style: none;
     display: flex;
 }
@@ -40,14 +40,12 @@ nav li a{
 }
 
 nav li a:hover{
-    color: blue;
+    color:antiquewhite;
 }
 
 nav li{
     margin: 0 20px;
-    padding: 3px ;
 }
-
 .logo{
     background-image: url(../images/fundodoce.png);
 }
@@ -60,10 +58,15 @@ nav li{
 
 .rodape{
     text-decoration: none;
-    margin: 0 20px;
+    margin: auto;
     color: white;
     list-style: none;
+    bottom: 800px;
+    right: 350px;
+    left: 50px;
+    top: 0;
 }
+
 
 .tt{
     width: 380px;

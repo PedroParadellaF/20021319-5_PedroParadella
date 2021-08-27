@@ -31,11 +31,15 @@
 
         </iframe>
 
-    <footer class="rodapefinal">    
-           <p class="rodape">RA: 20021319-5</p>
-           <p class="rodape"> Nome: Pedro Paradella Ferreira da Cruz</p>
-    </footer>
-
+        <footer class="rodapefinal">    
+           <nav>
+               <ul>
+                   <li><a href="#fim">Ra: 20021319-5</a></li>
+                   <li><a href="#fim">Nome: Pedro Paradella Ferreira da Cruz</a></li>
+               </ul>
+           </nav>
+        </footer>
+        <a name="fim"></a> 
     </body>
 
 </html>

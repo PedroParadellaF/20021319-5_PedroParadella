@@ -12,8 +12,11 @@
         <title>Doces Caseiros | Home</title>
     </head>
     <body>
-        <header>
-            <a href="#"><img src="images/logo.png" alt="" class="logo"></a>
+        <header class="logo">
+            <a href="#"><img src="images/logo.png" alt=""> </a>
+        </header>
+
+        <header class="menu">
             <nav>
                 <ul>
                     <li><a href="#">Quem somos?</li>
@@ -23,8 +26,14 @@
             </nav>
         </header>
 
+        <iframe width="100%" >
 
+        </iframe>
 
+    <footer class="rodape_final">    
+           <p class="rodape">RA: 20021319-5</p>
+           <p class="rodape">Nome: Pedro Paradella Ferreira da Cruz</p>
+    </footer>
 
     </body>
 

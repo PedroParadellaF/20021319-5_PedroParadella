@@ -13,7 +13,7 @@
     <body>
         <header class="logo">
             <img src="images/logo.png" alt="> 
-            <a href="#"><p class="tt"> Doces Caseiros</p></a>
+            <a href="#"><p class="tt"> Doceria Serrana</p></a>
         </header>
 
         <header class="menu">

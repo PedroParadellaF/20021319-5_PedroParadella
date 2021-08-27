@@ -18,7 +18,7 @@
 
         <div class="p2">
             <img src="../images/ambrosia.jpg" width="300" alt="" class="img2">
-            <a href="../pages/Ambrosia.php"><p class="p22">Ambrosia</p></a>
+            <a href="../pages/Ambrosia.php"><p class="p22">Ambrosia.</p></a>
         </div>
 
     </body>

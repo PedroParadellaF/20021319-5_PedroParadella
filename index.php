@@ -14,6 +14,7 @@
     <body>
         <header class="logo">
             <a href="#"><img src="images/logo.png" alt=""> </a>
+            <p class="tt"> Doces Caseiros</p>
         </header>
 
         <header class="menu">
@@ -26,13 +27,13 @@
             </nav>
         </header>
 
-        <iframe width="100%" >
+        <iframe width="100%"  height="2000px" frameborder="0" src=>
 
         </iframe>
 
-    <footer class="rodape_final">    
+    <footer class="rodapefinal">    
            <p class="rodape">RA: 20021319-5</p>
-           <p class="rodape">Nome: Pedro Paradella Ferreira da Cruz</p>
+           <p class="rodape"> Nome: Pedro Paradella Ferreira da Cruz</p>
     </footer>
 
     </body>

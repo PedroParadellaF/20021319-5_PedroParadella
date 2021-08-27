@@ -12,14 +12,14 @@
     </head>
     <body>
         <header class="logo">
-            <a href="#"><img src="images/logo.png" alt=""> </a>
-            <p class="tt"> Doces Caseiros</p>
+            <img src="images/logo.png" alt="> 
+            <a href="#"><p class="tt"> Doces Caseiros</p></a>
         </header>
 
         <header class="menu">
             <nav>
                 <ul>
-                    <li><a href="pages/home.php" target="tela">Home</li>
+                    <li><a href="pages/home.php"  target="tela">Home</li>
                     <li><a href="pages/quemsomos.php" target ="tela">Quem somos?</li>
                     <li><a href="pages/contatolocal.php" target ="tela">Contato e Localização</li>
                     
@@ -27,7 +27,7 @@
             </nav>
         </header>
 
-        <iframe width="100%"  height="2000px" frameborder="0" name="tela">
+        <iframe width="100%"  height="2000px" frameborder="0" src="pages/home.php" name="tela">
 
         </iframe>
 

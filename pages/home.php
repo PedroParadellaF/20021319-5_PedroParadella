@@ -6,15 +6,26 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <title></title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" type="text/css" href="./css/main.css">
+        <link rel="stylesheet" type="text/css" href="../css/main.css">
     </head>
     <body>
-    <p><?php echo $soma ?></p>
-        
-        
+        <p class="tit">Doces disponiveis a venda:</p>
+        <div class="p1">
+            <img src="../images/abobora.jpeg" width="300"   alt="" class="img1" >
+            <a href="#"><p class="p11"> Doce de Abobora caseiro.</p></a>
+        </div>
+
+        <div class="p2">
+            <a href="#"><img src="../images/ambrosia.jpg" width="300" alt="" class="img2"></a>
+        </div>
+
+        <div class="p3">
+            <a href="#"><img src="../images/cocada.jpg" width="300"  alt="" class="img3"></a>
+        </div>
+
+        <div class="p4">
+            <a href="#"><img src="../images/pao.jpg" width="300"  alt="" class="img4"></a>
+        </div>
     </body>
 </html>

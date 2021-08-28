@@ -13,7 +13,20 @@
         <link rel="stylesheet" type="text/css" href="../css/main.css">
     </head>
     <body>
-    
+            <p class="tit">Quem Somos!</p>
+
+            <img src="../images/girl.png" width="300"   alt="" class="img8" >
+
+            <p class="paragrafo7">
+                Somos uma Fabricante de doces caseiro visando sempre a qualidade
+                do produto.Nossos produtos são feitos com frutas frescas e de 
+                otíma procedência de produtores locais e outros municípios.
+            </p>
+
+            <p class="paragrafo8">
+                Buscamos sempre atender ao cliente do melhor jeito possivel
+                e garantir otima experiencia com nossos produtos.
+            </p>
         
     </body>
 </html>

@@ -329,3 +329,88 @@ a:hover{
     padding-top: -10px;
     padding-bottom: 35px;
 }
+
+.tit4{
+    width: 600px;
+    height: 10px;
+    position: absolute;
+    bottom: -350px;
+    right: -200px;
+    left: -250px;
+    top: 0;
+    margin: auto;
+    font-size: 40px;
+    color: white; 
+    padding-left: 25px;
+    padding-right: 10px;
+    padding-top: -10px;
+    padding-bottom: 35px;
+}
+.tit5{
+    width: 600px;
+    height: 10px;
+    position: absolute;
+    bottom: -450px;
+    right: -200px;
+    left: -250px;
+    top: 0;
+    margin: auto;
+    font-size: 40px;
+    color: white; 
+    padding-left: 25px;
+    padding-right: 10px;
+    padding-top: -10px;
+    padding-bottom: 35px;
+}
+
+.paragrafo7{
+    font-size: 18px;
+    text-align: justify;
+    width: 600px;
+    height: 10px;
+    position: absolute;
+    bottom: 550px;
+    right: -50px;
+    left: -250px;
+    top: 0;
+    margin: auto;
+    font-size: 18px;
+    color: white; 
+    padding-left: 25px;
+    padding-right: 10px;
+    padding-top: -10px;
+    padding-bottom: 35px;
+}
+
+.paragrafo8{
+    font-size: 18px;
+    text-align: justify;
+    width: 600px;
+    height: 10px;
+    position: absolute;
+    bottom: 300px;
+    right: -50px;
+    left: -250px;
+    top: 0;
+    margin: auto;
+    font-size: 18px;
+    color: white; 
+    padding-left: 25px;
+    padding-right: 10px;
+    padding-top: -10px;
+    padding-bottom: 35px;
+}
+
+.img8{
+    position: absolute;
+    bottom: 400px;
+    right: -1200px;
+    left: -250px;
+    top: 0;
+    margin: auto;
+    font-size: 50px;
+    padding-left: 25px;
+    padding-right: 10px;
+    padding-top: -10px;
+    padding-bottom: 35px;
+}
